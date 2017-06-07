@@ -37,7 +37,7 @@ import javax.servlet.http.HttpSession;
 	
 		
 
-		switch (operation)		
+		switch (operation)		//switch operation
 		{
 		case "Add":
 		c=det.Add();
